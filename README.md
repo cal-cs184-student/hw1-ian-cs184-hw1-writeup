@@ -7,6 +7,8 @@ Public write-up site for Ian Yang's UC Berkeley CS 184/284A Fall 2026 Homework 1
 
 This repository contains the write-up and public presentation assets only. The assignment implementation lives in a separate private repository. The local `hw1_walkthrough.rtf` is ignored by Git.
 
-The write-up currently uses `assets/lion.jpg` for missing results. Replace the image paths and alt text in `index.html` when the actual files arrive. Keep comparison views and pixel inspector positions consistent within each task. The six task sections contain all expected figure slots.
+The six task sections now show the 15 supplied renderer PNGs. Each figure links to its full-size image so the pixel inspector and texture details can be examined. The hero retains the starter `assets/lion.jpg` artwork.
+
+Task 3 includes the `assets/my_robot.svg` source alongside its rendered screenshot. Task 6 shows the four supplied filtering comparison screenshots.
 
 GitHub Pages serves this static site from the repository root. No build step is needed.
